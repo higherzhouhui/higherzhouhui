@@ -3,7 +3,7 @@
   <!-- dynamic typing effect 动态打字效果 -->
   <div>
     <a href="https://my-blog-seven-omega.vercel.app/">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=昨夜西风凋碧树。独上高楼，望尽天涯路。;衣带渐宽终不悔，为伊消得人憔悴。;众里寻他千百度，蓦然回首，那人却在灯火阑珊处。&center=true&size=27" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=505&lines=昨夜西风凋碧树。独上高楼，望尽天涯路。;衣带渐宽终不悔，为伊消得人憔悴。;众里寻他千百度，蓦然回首，那人却在灯火阑珊处。&center=true&size=27" />
     </a>
   </div>
 
