@@ -235,7 +235,7 @@ Windows                  17600 hrs 22 mins      ██████████�
 <!-- metrics 基础资料 -->
 <img width="150" src="https://cdn.jsdelivr.net/gh/higherzhouhui/higherzhouhui/assets/images/cxyduck.gif" />&emsp;
 <div>
-  <img width="600" src="https://cdn.jsdelivr.net/gh/higherzhouhui/higherzhouhui/assets/images/tenyear.jpg" />
+  <img width="100%" src="https://cdn.jsdelivr.net/gh/higherzhouhui/higherzhouhui/assets/images/tenyear.jpg" />
 </div>
 &emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/higherzhouhui/higherzhouhui/assets/images/cxyduck.gif" />
 
