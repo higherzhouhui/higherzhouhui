@@ -14,9 +14,9 @@
     <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/higherzhouhui/higherzhouhui/assets/images/developer.svg" height="225px" /> -->
     <img src="https://cdn.jsdelivr.net/gh/higherzhouhui/higherzhouhui/assets/images/coding.gif" />
   </picture>
-<video width="320" height="240" controls>
-  <source src="https://cdn.jsdelivr.net/gh/higherzhouhui/higherzhouhui/assets/images/30.MP4" type="video/mp4">
-</video>
+
+    <iframe width="560" height="315" src="https://cdn.jsdelivr.net/gh/higherzhouhui/higherzhouhui/assets/images/30.MP4" title="30 AGE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
   <!-- for beauty 留个空行好看点 -->
   <div>&nbsp;</div>
 
