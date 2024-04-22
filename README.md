@@ -36,13 +36,12 @@
     <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/higherzhouhui/higherzhouhui/profile-snake-contrib/github-contribution-grid-snake.svg" />
     <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/higherzhouhui/higherzhouhui/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
   </picture>
-
+  <picture>
+    <img width="600" src="https://cdn.jsdelivr.net/gh/higherzhouhui/higherzhouhui/assets/images/site.jpg"  />
+  </picture>
 </div>
   <!-- for beauty 留个空行好看点 -->
-  <picture>
-    <img width="600" align="center" src="https://cdn.jsdelivr.net/gh/higherzhouhui/higherzhouhui/assets/images/site.jpg"  />
-  </picture>
-  
+
 #  🙋 Hello
 
 <table>
