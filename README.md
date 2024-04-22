@@ -231,7 +231,8 @@ Windows                  17600 hrs 22 mins      ██████████�
 
 <!-- metrics 基础资料 -->
 <img width="150" src="https://cdn.jsdelivr.net/gh/higherzhouhui/higherzhouhui/assets/images/cxyduck.gif" />&emsp;
-<video src="https://cdn.jsdelivr.net/gh/higherzhouhui/higherzhouhui/assets/images/30.mp4" />
+<video src="https://github.com/higherzhouhui/higherzhouhui/blob/main/assets/images/30.MP4" autoPlay type="video/mp4"/>
+
 &emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/higherzhouhui/higherzhouhui/assets/images/cxyduck.gif" />
 
 <!-- GitHub Activity Graph GitHub 活动图 -->
