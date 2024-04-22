@@ -15,7 +15,7 @@
     <img src="https://cdn.jsdelivr.net/gh/higherzhouhui/higherzhouhui/assets/images/coding.gif" />
   </picture>
 <video width="320" height="240" controls>
-  <source src="/assets/images/30.MP4" type="video/mp4">
+  <source src="https://cdn.jsdelivr.net/gh/higherzhouhui/higherzhouhui/assets/images/30.MP4" type="video/mp4">
 </video>
   <!-- for beauty 留个空行好看点 -->
   <div>&nbsp;</div>
