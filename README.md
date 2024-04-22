@@ -3,14 +3,14 @@
   <!-- dynamic typing effect 动态打字效果 -->
   <div>
     <a href="https://my-blog-seven-omega.vercel.app/">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=505&lines=昨夜西风凋碧树。独上高楼，望尽天涯路。;衣带渐宽终不悔，为伊消得人憔悴。;众里寻他千百度，蓦然回首，那人却在灯火阑珊处。&center=true&size=27" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=615&lines=昨夜西风凋碧树。独上高楼，望尽天涯路。;衣带渐宽终不悔，为伊消得人憔悴。;众里寻他千百度，蓦然回首，那人却在灯火阑珊处。&center=true&size=27" />
     </a>
   </div>
 
   <!-- knock code pictures 敲代码的图片 -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/developer.svg" height="225px" />
+    <!-- <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/developer.svg" height="225px" /> -->
     <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
   </picture>
 
