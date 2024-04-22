@@ -77,8 +77,8 @@
 
   - 工作岗位：Web 前端开发工程师
   - 工作内容：1、2D平面图户型构建以及UI库维护
-  -          2、编写VSCODE插件以高亮、自动补齐、提示自创的一种描述非规则的3D模型
-  -          3、使用webworker以处理复杂的3D模型生成计算
+  -2、编写VSCODE插件以高亮、自动补齐、提示自创的一种描述非规则的3D模型
+  -3、使用webworker以处理复杂的3D模型生成计算
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/nio.png" />
 
@@ -100,9 +100,7 @@
 * <a href='https://my-blog-seven-omega.vercel.app/detail/1713073895845/%E5%A6%82%E4%BD%95%E8%AE%A9%E8%87%AA%E5%B7%B1%E7%9A%84%E5%89%8D%E7%AB%AF%E7%9F%A5%E8%AF%86%E6%9B%B4%E5%85%A8%E9%9D%A2' target='_blank'>如何让自己的前端知识更全面</a> - 2024-03-10
 * <a href='https://my-blog-seven-omega.vercel.app/detail/1713074357764/%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BA%E5%BE%AE%E5%89%8D%E7%AB%AF' target='_blank'>深入浅出微前端</a> - 2024-02-20
 * <a href='https://my-blog-seven-omega.vercel.app/detail/1713075527740/28%E4%B8%AAJavascript%E6%95%B0%E7%BB%84%E6%96%B9%E6%B3%95%EF%BC%8C%E5%BC%80%E5%8F%91%E8%80%85%E7%9A%84%E5%B0%8F%E6%8A%84' target='_blank'>28个Javascript数组方法，开发者的小抄</a> - 2024-02-16
-* <a href='https://my-blog-seven-omega.vercel.app/detail/31229246375886/%F0%9F%94%A5%202024%20%E6%8E%A8%E8%8D%90%E4%B8%80%E6%AC%BE%20Vue3%20%E7%A7%BB%E5%8A%A8%E7%AB%AF%E6%A8%A1%E6%9D%BF%20%EF%BC%88%E2%9A%A0%E5%8D%81%E4%B8%AA%E7%90%86%E7%94%B1%EF%BC%89' target='_blank'>🔥 2024 推荐一款 Vue3 移动端模板 （⚠十个理由）
-
-</a> - 2024-01-03
+* <a href='https://my-blog-seven-omega.vercel.app/detail/31229246375886/%F0%9F%94%A5%202024%20%E6%8E%A8%E8%8D%90%E4%B8%80%E6%AC%BE%20Vue3%20%E7%A7%BB%E5%8A%A8%E7%AB%AF%E6%A8%A1%E6%9D%BF%20%EF%BC%88%E2%9A%A0%E5%8D%81%E4%B8%AA%E7%90%86%E7%94%B1%EF%BC%89' target='_blank'>🔥 2024 推荐一款 Vue3 移动端模板 （⚠十个理由）</a> - 2024-01-03
 <!-- END_SECTION:blog -->
 
 </td></tr>
