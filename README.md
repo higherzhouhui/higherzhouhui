@@ -7,15 +7,12 @@
     </a>
   </div>
 
-
   <!-- knock code pictures 敲代码的图片 -->
   <picture>
     <!-- <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/higherzhouhui/higherzhouhui/assets/images/coding.gif" />
     <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/higherzhouhui/higherzhouhui/assets/images/developer.svg" height="225px" /> -->
     <img src="https://cdn.jsdelivr.net/gh/higherzhouhui/higherzhouhui/assets/images/coding.gif" />
   </picture>
-
-    <iframe width="560" height="315" src="https://cdn.jsdelivr.net/gh/higherzhouhui/higherzhouhui/assets/images/30.MP4" title="30 AGE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
   <!-- for beauty 留个空行好看点 -->
   <div>&nbsp;</div>
@@ -234,7 +231,7 @@ Windows                  17600 hrs 22 mins      ██████████�
 
 <!-- metrics 基础资料 -->
 <img width="150" src="https://cdn.jsdelivr.net/gh/higherzhouhui/higherzhouhui/assets/images/cxyduck.gif" />&emsp;
-
+<img width="600" src="https://cdn.jsdelivr.net/gh/higherzhouhui/higherzhouhui/assets/images/tinywow_IMG_0062_53854676.gif" />
 &emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/higherzhouhui/higherzhouhui/assets/images/cxyduck.gif" />
 
 <!-- GitHub Activity Graph GitHub 活动图 -->
