@@ -49,10 +49,14 @@
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/jobs.png" />
 
-<p>&emsp;&emsp;嗨，你好，我是小孙同学。热爱编程、摄影、读书、旅行。</p>
-<p>&emsp;&emsp;热爱计算机科学和 IT 互联网事业，希望能成为一名优秀的开发者。</p>
-<p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
-<p>&emsp;&emsp;<strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
+<p>&emsp;&emsp;hi，我是风中追风。热爱编程、篮球、羽毛球、台球、股票、币圈、旅行。</p>
+<p>&emsp;&emsp;1、从2014年接触web前端开发（计算机专业），熟练掌握前端三要素（HTML/JS/CSS），能快速上手任一前端框架；</p>
+<p>&emsp;&emsp;2、主要的技术栈为React、Vue、Angular及其衍生框架NextJS、NustJS、Uniapp、Ionic；</p>
+<p>&emsp;&emsp;3、有开发过微信小程序线上商城、Uniapp跨端开发生活服务类APP经验；</p>
+<p>&emsp;&emsp;4、参与过几个WEB3区块链DAPP项目；能熟练使用WEB3JS/ETHERJS唤醒虚拟钱包以及与合约交互；</p>
+<p>&emsp;&emsp;5、有全栈开发经验，从沟通需求（画产品图）、UI图（蓝湖和PhotoShop）、数据库设计（mysql）、页面开发（Nextjs），前后端交互（nodejs）、项目部署（阿里云服务器、域名购买、短信服务、宝塔管理、nginx）能独立完成；
+</p>
+<p>&emsp;&emsp;<strong>我原要昂扬独步天下，奈何却忍辱藏于污泥；我梦在叱咤风云，却无奈苦候时机；难道登峰造极，途中遍是荆棘……</strong></p>
 
 </td></tr>
 
@@ -62,24 +66,26 @@
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/yuanze.png" />
 
-- [北京原则科技有限公司](https://lusun.com/) &emsp; 📌 2024-03-04 —— Now
+- [重庆极造极信息科技有限公司](https://www.jizaoji.top/) &emsp; 📌 2022-10-11 —— Now
 
-  - 工作岗位：软件工程师
-  - 工作内容：创业
+  - 工作岗位：合伙人
+  - 工作内容：负责软件研发部与新媒体推广（抖音、今日头条、快手累计有1W+粉丝，20万点赞量）
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/tuhui.png" />
 
-- [广州图慧信息科技有限公司](https://www.tuhuimap.com/) &emsp; 📌 2023-06-19 —— 2024-01-19
+- [上海红星美凯龙设计云](https://www.mshejiyun.com/) &emsp; 📌 2018-05-19 —— 2022-10-1
 
   - 工作岗位：Web 前端开发工程师
-  - 工作内容：杂活
+  - 工作内容：1、2D平面图户型构建以及UI库维护
+  -          2、编写VSCODE插件以高亮、自动补齐、提示自创的一种描述非规则的3D模型
+  -          3、使用webworker以处理复杂的3D模型生成计算
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/nio.png" />
 
-- [蔚来汽车科技（安徽）有限公司](https://www.nio.cn/) &emsp; 📌 2023-02-20 —— 2023-05-12
+- [上海博达数据通信有限公司](https://www.bdcom.com.cn/) &emsp; 📌 2017-06-20 —— 2018-05-12
 
-  - 工作岗位：Web 前端开发实习生
-  - 工作内容：参与一站式数据治理与研发平台 DataSight 的开发与维护工作
+  - 工作岗位：嵌入式开发
+  - 工作内容：路由器应用层管理页面更新迭代
 
 </td></tr>
 
@@ -90,11 +96,13 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
 
 <!-- START_SECTION:blog -->
-* <a href='https://my-blog-seven-omega.vercel.app/posts/kunlunchao/' target='_blank'>昆仑巢「疯狂星期六」，没有人是一座孤岛～</a> - 2024-03-18
-* <a href='https://my-blog-seven-omega.vercel.app/posts/yuanze/' target='_blank'>你好，北京！你好，原则科技！一切都是最好的安排！</a> - 2024-03-10
-* <a href='https://my-blog-seven-omega.vercel.app/posts/2023/' target='_blank'>行则将至，未来可期，和 2023 好好说声再见吧！</a> - 2024-02-20
-* <a href='https://my-blog-seven-omega.vercel.app/posts/xizang/' target='_blank'>西藏之旅｜青春没有售价，火车直达拉萨！</a> - 2024-02-16
-* <a href='https://my-blog-seven-omega.vercel.app/posts/zhuhai/' target='_blank'>珠海之旅｜去感受风，去聆听海，去触摸，去抵达</a> - 2024-01-03
+* <a href='https://my-blog-seven-omega.vercel.app/detail/1713073764223/%E5%89%8D%E7%AB%AF%E5%85%A8%E6%A0%88%E5%BF%85%E9%A1%BB%E4%BC%9A%E7%9A%84Prisma%EF%BC%81' target='_blank'>前端全栈必须会的Prisma！</a> - 2024-04-14
+* <a href='https://my-blog-seven-omega.vercel.app/detail/1713073895845/%E5%A6%82%E4%BD%95%E8%AE%A9%E8%87%AA%E5%B7%B1%E7%9A%84%E5%89%8D%E7%AB%AF%E7%9F%A5%E8%AF%86%E6%9B%B4%E5%85%A8%E9%9D%A2' target='_blank'>如何让自己的前端知识更全面</a> - 2024-03-10
+* <a href='https://my-blog-seven-omega.vercel.app/detail/1713074357764/%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BA%E5%BE%AE%E5%89%8D%E7%AB%AF' target='_blank'>深入浅出微前端</a> - 2024-02-20
+* <a href='https://my-blog-seven-omega.vercel.app/detail/1713075527740/28%E4%B8%AAJavascript%E6%95%B0%E7%BB%84%E6%96%B9%E6%B3%95%EF%BC%8C%E5%BC%80%E5%8F%91%E8%80%85%E7%9A%84%E5%B0%8F%E6%8A%84' target='_blank'>28个Javascript数组方法，开发者的小抄</a> - 2024-02-16
+* <a href='https://my-blog-seven-omega.vercel.app/detail/31229246375886/%F0%9F%94%A5%202024%20%E6%8E%A8%E8%8D%90%E4%B8%80%E6%AC%BE%20Vue3%20%E7%A7%BB%E5%8A%A8%E7%AB%AF%E6%A8%A1%E6%9D%BF%20%EF%BC%88%E2%9A%A0%E5%8D%81%E4%B8%AA%E7%90%86%E7%94%B1%EF%BC%89' target='_blank'>🔥 2024 推荐一款 Vue3 移动端模板 （⚠十个理由）
+
+</a> - 2024-01-03
 <!-- END_SECTION:blog -->
 
 </td></tr>
