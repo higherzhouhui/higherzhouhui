@@ -39,9 +39,10 @@
 
 </div>
   <!-- for beauty 留个空行好看点 -->
-  <div>&nbsp;</div>
-  <img width="600" src="https://cdn.jsdelivr.net/gh/higherzhouhui/higherzhouhui/assets/images/site.jpg" align="center/>
-
+  <picture>
+    <img width="600" align="center" src="https://cdn.jsdelivr.net/gh/higherzhouhui/higherzhouhui/assets/images/site.jpg"  />
+  </picture>
+  
 #  🙋 Hello
 
 <table>
