@@ -6,6 +6,7 @@
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=615&lines=昨夜西风凋碧树。独上高楼，望尽天涯路。;衣带渐宽终不悔，为伊消得人憔悴。;众里寻他千百度，蓦然回首，那人却在灯火阑珊处。&center=true&size=27" />
     </a>
   </div>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1488737309&auto=1&height=66"></iframe>
 
   <!-- knock code pictures 敲代码的图片 -->
   <picture>
@@ -231,7 +232,6 @@ Windows                  17600 hrs 22 mins      ██████████�
 
 <!-- metrics 基础资料 -->
 <img width="150" src="https://cdn.jsdelivr.net/gh/higherzhouhui/higherzhouhui/assets/images/cxyduck.gif" />&emsp;
-<video src="https://github.com/higherzhouhui/higherzhouhui/blob/main/assets/images/30.MP4" autoPlay type="video/mp4"/>
 
 &emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/higherzhouhui/higherzhouhui/assets/images/cxyduck.gif" />
 
