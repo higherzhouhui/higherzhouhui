@@ -9,7 +9,7 @@ jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-      - uses: sun0225SUN/Social-Readme@main
+      - uses: higherzhouhui/Social-Readme@main
         with:
           blog_rss_link: https://blog.sunguoqi.com/atom.xml
           blog_limit: 5 # blog数量
