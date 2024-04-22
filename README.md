@@ -139,19 +139,13 @@
 
 <tr><td>
 
-### 📊 WakaTime
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=higherzhouhui&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=higherzhouhui&layout=compact&text_color=1f2328&bg_color=00000000&hide_border=true&hide_title=true"
-    media="(prefers-color-scheme: light)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=higherzhouhui&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true" />
-</picture>
+<div class="languages"><h2><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M1.5 2.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v8.5a.25.25 0 01-.25.25h-6.5a.75.75 0 00-.53.22L4.5 14.44v-2.19a.75.75 0 00-.75-.75h-2a.25.25 0 01-.25-.25v-8.5zM1.75 1A1.75 1.75 0 000 2.75v8.5C0 12.216.784 13 1.75 13H3v1.543a1.457 1.457 0 002.487 1.03L8.061 13h6.189A1.75 1.75 0 0016 11.25v-8.5A1.75 1.75 0 0014.25 1H1.75zm5.03 3.47a.75.75 0 010 1.06L5.31 7l1.47 1.47a.75.75 0 01-1.06 1.06l-2-2a.75.75 0 010-1.06l2-2a.75.75 0 011.06 0zm2.44 0a.75.75 0 000 1.06L10.69 7 9.22 8.47a.75.75 0 001.06 1.06l2-2a.75.75 0 000-1.06l-2-2a.75.75 0 00-1.06 0z"></path></svg>
+Used languages
+</h2> <p><b>higherzhouhui</b> has used 11 different languages for a total of 24,050,754 bytes.
+<small class="footnote">
+Note that these numbers are based on results produced by <a href="https://github.com/Nixinova/LinguistJS">LinguistJS</a> from repositories owned by <b>higherzhouhui</b> and may not be entirely accurate.
+</small></p> <div class="list"><div class="language"><div class="progress" style="width: 36.9465%; background-color: rgb(65, 184, 131);"></div> <div style="color: rgb(65, 184, 131);"><span class="name">Vue</span> <span class="percent">(36.95%)</span></div> <div class="size">8,885,914 bytes</div></div><div class="language"><div class="progress" style="width: 30.809%; background-color: rgb(241, 224, 90);"></div> <div style="color: rgb(241, 224, 90);"><span class="name">JavaScript</span> <span class="percent">(30.81%)</span></div> <div class="size">7,409,795 bytes</div></div><div class="language"><div class="progress" style="width: 17.7958%; background-color: rgb(49, 120, 198);"></div> <div style="color: rgb(49, 120, 198);"><span class="name">TypeScript</span> <span class="percent">(17.8%)</span></div> <div class="size">4,280,017 bytes</div></div><div class="language"><div class="progress" style="width: 7.37285%; background-color: rgb(198, 83, 140);"></div> <div style="color: rgb(198, 83, 140);"><span class="name">SCSS</span> <span class="percent">(7.37%)</span></div> <div class="size">1,773,226 bytes</div></div><div class="language"><div class="progress" style="width: 3.41566%; background-color: rgb(86, 61, 124);"></div> <div style="color: rgb(86, 61, 124);"><span class="name">CSS</span> <span class="percent">(3.42%)</span></div> <div class="size">821,491 bytes</div></div><div class="language"><div class="progress" style="width: 3.22069%; background-color: rgb(227, 76, 38);"></div> <div style="color: rgb(227, 76, 38);"><span class="name">HTML</span> <span class="percent">(3.22%)</span></div> <div class="size">774,601 bytes</div></div><div class="language"><div class="progress" style="width: 0.307246%; background-color: rgb(29, 54, 93);"></div> <div style="color: rgb(29, 54, 93);"><span class="name">Less</span> <span class="percent">(0.31%)</span></div> <div class="size">73,895 bytes</div></div><div class="language"><div class="progress" style="width: 0.108558%; background-color: rgb(169, 30, 80);"></div> <div style="color: rgb(169, 30, 80);"><span class="name">EJS</span> <span class="percent">(0.11%)</span></div> <div class="size">26,109 bytes</div></div><div class="language"><div class="progress" style="width: 0.0184942%; background-color: rgb(56, 77, 84);"></div> <div style="color: rgb(56, 77, 84);"><span class="name">Dockerfile</span> <span class="percent">(0.02%)</span></div> <div class="size">4,448 bytes</div></div><div class="language"><div class="progress" style="width: 0.0039874%; background-color: rgb(137, 224, 81);"></div> <div style="color: rgb(137, 224, 81);"><span class="name">Shell</span> <span class="percent">(0%)</span></div> <div class="size">959 bytes</div></div><div class="language"><div class="progress" style="width: 0.0012432%; background-color: rgb(247, 147, 30);"></div> <div style="color: rgb(247, 147, 30);"><span class="name">Handlebars</span> <span class="percent">(0%)</span></div> <div class="size">299 bytes</div></div></div></div>
 
 </td></tr>
 
