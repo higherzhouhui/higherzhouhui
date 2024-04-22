@@ -40,9 +40,7 @@
 </div>
   <!-- for beauty 留个空行好看点 -->
   <div>&nbsp;</div>
-<img width="600" src="https://cdn.jsdelivr.net/gh/higherzhouhui/higherzhouhui/assets/images/site.jpg" />
-  <!-- for beauty 留个空行好看点 -->
-  <div>&nbsp;</div>
+  <img width="600" src="https://cdn.jsdelivr.net/gh/higherzhouhui/higherzhouhui/assets/images/site.jpg" align="center/>
 
 #  🙋 Hello
 
@@ -236,7 +234,9 @@ Windows                  17600 hrs 22 mins      ██████████�
 
 <!-- metrics 基础资料 -->
 <img width="150" src="https://cdn.jsdelivr.net/gh/higherzhouhui/higherzhouhui/assets/images/cxyduck.gif" />&emsp;
-<img width="600" src="https://cdn.jsdelivr.net/gh/higherzhouhui/higherzhouhui/assets/images/10year.jpg" />
+<div>
+  <img width="600" src="https://cdn.jsdelivr.net/gh/higherzhouhui/higherzhouhui/assets/images/tenyear.jpg" />
+</div>
 &emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/higherzhouhui/higherzhouhui/assets/images/cxyduck.gif" />
 
 <!-- GitHub Activity Graph GitHub 活动图 -->
