@@ -146,10 +146,6 @@
     srcset="https://camo.githubusercontent.com/d1299c994951efdaa457e9ea567e0e99d89f4ca03485f18b3a11d63e60e373ce/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f77616b6174696d653f757365726e616d653d6666666c616273266c61796f75743d636f6d70616374"
     media="(prefers-color-scheme: dark)"
   />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=higherzhouhui&layout=compact&text_color=1f2328&bg_color=00000000&hide_border=true&hide_title=true"
-    media="(prefers-color-scheme: light)"
-  />
   <img src="https://camo.githubusercontent.com/d1299c994951efdaa457e9ea567e0e99d89f4ca03485f18b3a11d63e60e373ce/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f77616b6174696d653f757365726e616d653d6666666c616273266c61796f75743d636f6d70616374" />
 </picture>
 
