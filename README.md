@@ -19,13 +19,10 @@
 
   <!-- profile logo 个人资料徽标 -->
   <div>
-    <a href="https://my-blog-seven-omega.vercel.app/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
     <a href="https://twitter.com/ahui1921114417/"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
     <a href="https://www.youtube.com/@higherzhouhui"><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp;
-    <a href="https://my-blog-seven-omega.vercel.app/contact"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
     <a href="https://space.bilibili.com/bili_67289110838/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
     <a href="https://blog.csdn.net/weixin_50915462/"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
-    <a href="https://www.zhihu.com/people/yun-dong-xie-zhuan-mai-dian/"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;
     <!-- visitor statistics logo 访问量统计徽标 -->
     <img src="https://komarev.com/ghpvc/?username=higherzhouhui&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
   </div>
@@ -68,11 +65,6 @@
 ### 🏢 Work Experience
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/higherzhouhui/higherzhouhui/assets/images/yuanze.png" />
-
-- [重庆极造极信息科技有限公司](https://www.jizaoji.top/) &emsp; 📌 2022-10-11 —— Now
-
-  - 工作岗位：合伙人
-  - 工作内容：负责软件研发部与新媒体推广（抖音、今日头条、快手累计有1W+粉丝，20万点赞量）
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/higherzhouhui/higherzhouhui/assets/images/tuhui.png" />
 
