@@ -68,26 +68,6 @@
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/higherzhouhui/higherzhouhui/assets/images/tuhui.png" />
 
-- [上海XX设计云](https://www.mshejiyun.com/) &emsp; 📌 2018-05-19 —— 2025-10-1
-
-  - 工作岗位：Web 前端开发工程师
-  - 工作内容：1、2D平面图户型构建以及UI库维护
-  -2、编写VSCODE插件以高亮、自动补齐、提示自创的一种描述非规则的3D模型
-  -3、使用webworker以处理复杂的3D模型生成计算
-
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/higherzhouhui/higherzhouhui/assets/images/nio.png" />
-
-- [上海XX通信有限公司](https://www.bdcom.com.cn/) &emsp; 📌 2017-06-20 —— 2018-05-12
-
-  - 工作岗位：嵌入式开发
-  - 工作内容：路由器应用层管理页面更新迭代
-
-</td></tr>
-
-<tr><td>
-
-### 📃 Recent Blog
-
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/higherzhouhui/higherzhouhui/assets/images/astronaut.png" />
 
 <!-- START_SECTION:blog -->
